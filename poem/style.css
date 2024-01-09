@@ -1,0 +1,46 @@
+body {
+    background-image: url('./background.JPEG');
+    height: 100vh;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    background-repeat: no-repeat;
+    
+}
+
+img {
+    height: 484px;
+    width: 317px;
+    overflow: auto;
+    margin: 100px 470px;
+    padding: 0px 0px;
+    border-radius: 40px;
+    box-shadow: 2px 8px 26px;
+    border: 2px solid #97d8eb52;
+overflow: auto;
+
+}
+
+h1{
+
+    margin: -636px 520px;
+    font-size: 310%;
+    text-shadow:2px 10px 12px;
+  color:  rgb(0, 0, 0);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+
+}
+p{
+
+
+       font-size: x-large;
+
+       padding: 239px 488px;
+      
+       text-align: center;
+       margin-top: 460px;
+       margin-left: 1px;
+       font-weight: bolder;
+   }
+    
