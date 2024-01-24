@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.body{
+    background-color: black;
+}
+
+.navbar{
+background: #0025ff;
+
+}
+
+.bgvideo{
+height: 100%;
+width: 100%;
+
+
+
+}
+.container .backimgs{
+    position: relative;
+    z-index: 4;
+}
+.imgh1{
+    position: absolute;
+    top: 230%;
+    left: 17%;
+   color: #ffff;
+   font-size: 700%;
+   font-family: fantasy;
+   text-shadow: 1px 1px 10px rgb(0, 17, 255) ;
+}
+
+.imgbTn{
+  position: absolute;
+  top: 210%;
+  left: 40%;
+  font-size: 300%;
+  padding: 4px;
+  font-family: fantasy;
+}  
+.imgbTn:hover{
+color:  #fff;
+background-color: #0025ff;
+}
+
+ 
+  .imgbtn{
+    position: absolute;
+    top: 335%;
+    left: 18%;
+  }  
+  .imgBtn{
+    position: absolute;
+    top: 335%;
+    left: 68%;
+    
+  }  
+
+
+.imgs{
+  position: absolute;
+  top: 275%;
+  left: 2%;
+ 
+}
+
+.Imgs{
+    position: absolute;
+    top: 275%;
+    left: 51%;
+   
+  }
+.imgs:hover{
+box-shadow: 1px 1px 100px #0025ff;
+  }
+  .Imgs:hover{
+    box-shadow: 1px 1px 100px #0025ff;
+      }
+.drop{
+
+   color: #0025ff;
+}
+.footer{
+background: rgb(50, 112, 245);
+
+
+}
+
+.nav-item>a{
+    color: black;
+}
+.container{
+    overflow: hidden;
+position: absolute;
+
+}
+.card{
+    display: inline-block;
+    justify-content: space-between;
+}
+
+
+
+
