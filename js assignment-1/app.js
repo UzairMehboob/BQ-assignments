@@ -23,11 +23,11 @@ alert("Hello World");
 // Question-10
 var stdName = 'bahadur';
 var stdAge = 19;
-var stdDept= 'bio';
+var stdsub= 'bio';
 var stdGrade='c';
 alert('Student Name is ' +stdName );
 alert('Student Age is ' +stdAge );
-alert('Department is ' +stdDept );
+alert('Subject is ' +stdsub );
 alert('Student Grade is' +stdGrade);
 
 // Question-11
