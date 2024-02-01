@@ -1,18 +1,13 @@
 // Question-1
 alert("Welcome to Our Website");
-document.write("Question 1")
 
-// Question-1
+// Question-2
 alert("<p>Error! Please Enter a valid password</p>");
 
-
-// Question-1
-alert(" uzair");
-
-// Question-1
-alert("Alert 1!");
-alert("Alert 2!");
-alert("Alert 3!");
+// Question-4
+alert("Wallcome Sir");
+alert("Good morning");
+alert("How can i help you");
 
 
 // Question-7
@@ -22,8 +17,8 @@ var username;
 var myName  = "uzair mehboob";
 
 // Question-9
-var message="Hello World";
-alert(message);
+var message="Good morning ";
+alert("Hello World");
 
 // Question-10
 var stdName = 'bahadur';
@@ -37,6 +32,7 @@ alert('Student Grade is' +stdGrade);
 
 // Question-11
 var email ="uziuzair332@gmail.com" ;
+alert("uziuzair332@gmail.com")
 
 // Question-12
 alert("My email address is: ");
@@ -50,14 +46,14 @@ var age = 18;
 alert("I am " +age + " years old");
 
 // Question-15
-var visitCount = 0;
+var visitCount = 3;
 visitCount++;
 alert("You have visited this site " + visitCount + " times");
 alert("You have visited this site " + visitCount + " times");
 
 
 // Question-16
-var birthYear = 1998
+var birthYear = 2005
 alert(birthYear)
 document.write("I was born in: "  + birthYear )
 
